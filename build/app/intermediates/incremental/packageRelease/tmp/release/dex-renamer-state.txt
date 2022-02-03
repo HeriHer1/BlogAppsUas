@@ -1,0 +1,4 @@
+#Wed Feb 02 23:29:31 ICT 2022
+base.0=C\:\\Users\\Admin\\FlutterProject\\uas_flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
